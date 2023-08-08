@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saarim95&label=Profile%20views&color=0e75b6&style=flat" alt="saarim95" /> </p>
 
-- 🌱 I’m currently enhancing **Python Libraries & Web Development**
+- 🌱 I’m currently enhancing **Python Libraries & Web Development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saarim95](https://github.com/saarim95)
 
