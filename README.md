@@ -30,3 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saarim95&" alt="saarim95" /></p>
 
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
