@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences (6 Months Past experience)
 
-- ⚡ Earn **I am doing self earning through telegram**
+- ⚡ Earn: **I am doing self earning through telegram**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
