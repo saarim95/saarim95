@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MOHD SAARIM SAIFI</h1>
 <div align="center"> <img src="https://raw.github.com/saarim95/saarim95/main/Get started in Canva (2).gif"> </div>
-<h3 align="center">A passionate Data Analyst from India.</h3>
+<h3 align="center">A passionate Web Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saarim95&label=Profile%20views&color=0e75b6&style=flat" alt="saarim95" /> </p>
