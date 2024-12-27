@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saarim95](https://github.com/saarim95)
 
-- 💬 Ask me about **Libraries & Databases**
+- 💬 Ask me about **Frontend and Backend**
 
 - 📫 How to reach me **sarim639745@gmail.com**
 
